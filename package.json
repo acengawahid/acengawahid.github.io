@@ -1,0 +1,20 @@
+{
+  "name": "acengawahid",
+  "version": "1.0.0",
+  "description": "UAS Pengembangan Aplikasi Terdistribusi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web Statis",
+    "NodeJS"
+  ],
+  "author": "Aceng Abdul Wahid",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1"
+  }
+}
